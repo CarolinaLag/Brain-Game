@@ -1,6 +1,6 @@
 # Brain Game App
 
-_A brain game app also calles "the simon game" built with JavaScript/jQuery_
+_A brain game app also called "The Simon Game" built with JavaScript/jQuery_
 
 ---
 
