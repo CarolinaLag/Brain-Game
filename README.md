@@ -7,6 +7,10 @@ _A brain game app also called "The Simon Game" built with JavaScript/jQuery_
 
 ---
 
+## Demo
+
+https://braingame-carolina.netlify.app/
+
 ## Installation
 Use following command to install:
 
